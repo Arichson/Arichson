@@ -1,5 +1,5 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=arichson.arichson)
-### Hi there 👋
+### Hello 👋
 
 [![arichson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arichson&theme=dark&show_icons=true)](https://github.com/Arichson/github-readme-stats)
 
