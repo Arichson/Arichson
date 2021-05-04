@@ -1,4 +1,12 @@
+![visitors](https://visitor-badge.glitch.me/badge?page_id=arichson.arichson)
 ### Hi there 👋
+
+[![arichson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arichson&theme=dark&show_icons=true)](https://github.com/Arichson/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arichson&layout=compact&theme=dark&show_icons=true)](https://github.com/Arichson/github-readme-stats)
+
+[![Arichson's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Arichson&theme=blue-green)](https://github.com/Arichson/github-readme-streak-stats)
+
 
 <!--
 **Arichson/Arichson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
